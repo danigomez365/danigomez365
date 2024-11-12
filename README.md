@@ -2,7 +2,7 @@ Hi there 👋
 
 <h1>Hi, I'm Dani!</br> <a href="https://github.com/danigomez365">A McGill Business Analytics and Sustainability Student</a></h1>
 
-<h2> Sustainability Papers & Research Projects :</h2>
+<h2> 🌱 Sustainability Papers & Research Projects :</h2>
 
 - <b>Discrimination in Hiring and the Role of Artificial Intelligence </b>
   - [Link to the github repository](https://drive.google.com/file/d/1ko40ogCnsZk7FeE2Bp41sR51Vlb0JZiZ/view?usp=sharing)
