@@ -1,9 +1,5 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**danigomez365/danigomez365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <h1>Hi, I'm Dani!</br> <a href="https://github.com/Sebastian-Andalytics">A McGill Business Analytics and Sustainability Student</a></h1>
 
 <h2> Sustainability Papers & Research Projects :</h2>
@@ -26,16 +22,3 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/danielag0mez/
 
 
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
