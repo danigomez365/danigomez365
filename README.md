@@ -8,13 +8,13 @@ Hi there 👋
   - [Link to the github repository](https://drive.google.com/file/d/1ko40ogCnsZk7FeE2Bp41sR51Vlb0JZiZ/view?usp=sharing)
 
 - <b>The Cement Association of Canada Sustainability Report </b>
-  - [Link to the github repository](https://drive.google.com/file/d/1gt7cYYppHs4cTo4IeOgoKbVjtedJ3zGE/view?usp=sharing)
+  - [Link to the github repository](https://drive.google.com/file/d/1gt7cYYppHs4cTo4IeOgoKbVjtedJ3zGE/view?usp=drive_link)
   
 - <b>Analyzing Tesla's Theory of Change in Renewable Energy Transition </b>
   - [Link to the github repository](https://drive.google.com/file/d/1mUYXfyN-3t9UlPc70cAeT-CjtpFCKzm8/view?usp=drive_link)
   
 - <b>The Future of Apple’s Sustainability Report </b>
-  - [Link to the github repository](https://drive.google.com/file/d/1WAEISwOZexnuih1pnX6O6fx1wY7aD6fT/view?usp=sharing)
+  - [Link to the github repository](https://drive.google.com/file/d/1nn4t20XmZec04GkW5uAnoPHdAHJmZU6U/view?usp=drive_link)
   
 - <b>Why an Additional Educational Program is Needed in Ticaru Valley- CLDs</b>
   - [Link to the github repository](https://drive.google.com/file/d/1EkHk6d4a8msAa07EUP1_05GnjnYk_vPa/view?usp=drive_link)
