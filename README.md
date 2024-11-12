@@ -7,7 +7,7 @@ Hi there 👋
 - <b>Discrimination in Hiring and the Role of Artificial Intelligence </b>
   - [Link to the github repository](https://drive.google.com/file/d/1ko40ogCnsZk7FeE2Bp41sR51Vlb0JZiZ/view?usp=sharing)
 
-- <b>The Cement of Association of Canada Sustainability Report </b>
+- <b>The Cement Association of Canada Sustainability Report </b>
   - [Link to the github repository](https://drive.google.com/file/d/1gt7cYYppHs4cTo4IeOgoKbVjtedJ3zGE/view?usp=sharing)
   
 - <b>Analyzing Tesla's Theory of Change in Renewable Energy Transition </b>
