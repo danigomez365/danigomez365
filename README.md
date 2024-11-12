@@ -1,17 +1,20 @@
 Hi there 👋
 
-<h1>Hi, I'm Dani!</br> <a href="https://github.com/Sebastian-Andalytics">A McGill Business Analytics and Sustainability Student</a></h1>
+<h1>Hi, I'm Dani!</br> <a href="https://github.com/danigomez365">A McGill Business Analytics and Sustainability Student</a></h1>
 
 <h2> Sustainability Papers & Research Projects :</h2>
+
+- <b>Discrimination in Hiring and the Role of Artificial Intelligence </b>
+  - [Link to the github repository](https://drive.google.com/file/d/1ko40ogCnsZk7FeE2Bp41sR51Vlb0JZiZ/view?usp=sharing)
 
 - <b>The Cement of Association of Canada Sustainability Report </b>
   - [Link to the github repository](https://drive.google.com/file/d/1gt7cYYppHs4cTo4IeOgoKbVjtedJ3zGE/view?usp=sharing)
   
-  - <b>Analyzing Tesla's Theory of Change in Renewable Energy Transition </b>
+- <b>Analyzing Tesla's Theory of Change in Renewable Energy Transition </b>
   - [Link to the github repository](https://drive.google.com/file/d/1mUYXfyN-3t9UlPc70cAeT-CjtpFCKzm8/view?usp=drive_link)
   
-- <b>Discrimination in Hiring and the Role of Artificial Intelligence </b>
-  - [Link to the github repository](https://drive.google.com/file/d/1ko40ogCnsZk7FeE2Bp41sR51Vlb0JZiZ/view?usp=sharing)
+- <b>The Future of Apple’s Sustainability Report </b>
+  - [Link to the github repository](https://drive.google.com/file/d/1WAEISwOZexnuih1pnX6O6fx1wY7aD6fT/view?usp=sharing)
 
 
 <h2> 🤳 Connect with me:</h2>
