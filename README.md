@@ -5,7 +5,7 @@ Hi there 👋
 <h2> Sustainability Papers & Research Projects :</h2>
 
 - <b>The Cement of Association of Canada Sustainability Report </b>
-  - [Link to the github repository](https://drive.google.com/file/d/1LrNMEtLAn0FJsPKiySw2BfDATyXqiLbJ/view?usp=drive_link)
+  - [Link to the github repository](https://drive.google.com/file/d/1gt7cYYppHs4cTo4IeOgoKbVjtedJ3zGE/view?usp=sharing)
   
   - <b>Analyzing Tesla's Theory of Change in Renewable Energy Transition </b>
   - [Link to the github repository](https://drive.google.com/file/d/1mUYXfyN-3t9UlPc70cAeT-CjtpFCKzm8/view?usp=drive_link)
