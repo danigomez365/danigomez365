@@ -20,7 +20,7 @@ Hi there 👋
   - [Link to the github repository](https://drive.google.com/file/d/1hV4_lTvd-C-stopIpVUY3l6SQyYWnnLp/view?usp=drive_link)
 
 - <b> Discrimination in Hiring and the Role of Artificial Intelligence Poster </b>
-  - [Link to the github repository] (https://drive.google.com/file/d/1t3ynLII1TcFi9VmpcQ87c1A8oW4Ph0j6/view?usp=sharing)
+  - [Link to the github repository] (https://drive.google.com/file/d/1t3ynLII1TcFi9VmpcQ87c1A8oW4Ph0j6/view?usp=drive link)
 
 
 <h2> 🤳 Connect with me:</h2>
