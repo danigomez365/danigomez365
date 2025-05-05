@@ -1,7 +1,7 @@
 Hi there 👋
 
 <h1>Hi, I'm Dani!<br> 
-  <a href="https://github.com/danigomez365">A McGill Business Analytics and Sustainability Student</a>
+  <a href="https://github.com/danigomez365">A McGill Business Analytics and Sustainability Graduate</a>
 </h1>
 
 <h2> 🔬 Research Project Work:</h2>
