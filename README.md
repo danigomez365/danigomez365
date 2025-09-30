@@ -24,7 +24,7 @@ Hi there 👋
 - <b>Why an Additional Educational Program is Needed in Ticaru Valley - CLDs</b><br>
   <a href="https://drive.google.com/file/d/1hV4_lTvd-C-stopIpVUY3l6SQyYWnnLp/view?usp=drive_link">Link</a>
 
-<h2> 📊 Other Data Analytics Projects:</h2>
+<h2> 📊 Data & Sustainability:</h2>
 
 - <b>Let a Forest Decide: Classifying Forests with a Forest</b><br>
   <a href="https://drive.google.com/file/d/1IDl9AczP9ra6SFgftcUzIv4TvPUUYAJk/view?usp=sharing">Link</a>
