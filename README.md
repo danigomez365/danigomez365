@@ -14,13 +14,13 @@ Hi there 👋
 
 <h2> 🌱 Sustainability Papers:</h2>
 
-- <b>The Cement Association of Canada Sustainability Report</b><br>
+- <b>Sustainability Report: The Cement Association of Canada </b><br>
   <a href="https://drive.google.com/file/d/1gt7cYYppHs4cTo4IeOgoKbVjtedJ3zGE/view?usp=drive_link">Link</a>
 
 - <b>Analyzing Tesla's Theory of Change in Renewable Energy Transition</b><br>
   <a href="https://drive.google.com/file/d/1mUYXfyN-3t9UlPc70cAeT-CjtpFCKzm8/view?usp=drive_link">Link</a>
 
-- <b>The Future of Apple’s Sustainability Report</b><br>
+- <b>The Future of Apple’s Sustainability </b><br>
   <a href="https://drive.google.com/file/d/1nn4t20XmZec04GkW5uAnoPHdAHJmZU6U/view?usp=drive_link">Link</a>
 
 - <b>Why an Additional Educational Program is Needed in Ticaru Valley - CLDs</b><br>
