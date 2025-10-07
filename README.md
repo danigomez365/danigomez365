@@ -4,11 +4,13 @@ Hi there 👋
   <a href="https://github.com/danigomez365">A McGill Business Analytics and Sustainability Graduate</a>
 </h1>
 
-<h2> 🔬 Research Project Work (Python & Machine Learning):</h2>
+<h2> 🔬 Research Project Work: Discrimination in Hiring and the Role of Artificial Intelligence (Python & Machine Learning):</h2>
 
-- <b>Discrimination in Hiring and the Role of Artificial Intelligence</b><br> <a href="https://drive.google.com/file/d/1ko40ogCnsZk7FeE2Bp41sR51Vlb0JZiZ/view?usp=sharing">Link</a>
+- <b>Overview</b><br> <a href="https://drive.google.com/file/d/1ko40ogCnsZk7FeE2Bp41sR51Vlb0JZiZ/view?usp=sharing">Link</a>
 
-- <b>Discrimination in Hiring and the Role of Artificial Intelligence Poster</b><br><a href="https://drive.google.com/file/d/1t3ynLII1TcFi9VmpcQ87c1A8oW4Ph0j6/view?usp=drive_link">Link</a>
+- <b>Poster</b><br><a href="https://drive.google.com/file/d/1t3ynLII1TcFi9VmpcQ87c1A8oW4Ph0j6/view?usp=drive_link">Link</a>
+
+- <b>Code</b><br><a href="https://github.com/danigomez365/Research-Project">Link</a>
 
 <h2> 🌱 Sustainability Papers:</h2>
 
@@ -24,10 +26,13 @@ Hi there 👋
 - <b>Why an Additional Educational Program is Needed in Ticaru Valley - CLDs</b><br>
   <a href="https://drive.google.com/file/d/1hV4_lTvd-C-stopIpVUY3l6SQyYWnnLp/view?usp=drive_link">Link</a>
 
-<h2> 📊 Data & Sustainability (R):</h2>
+<h2> 📊 Data & Sustainability: Classifying forests with a forest (R):</h2>
 
-- <b>Let a Forest Decide: Classifying Forests with a Forest</b><br>
+- <b>Paper</b><br>
   <a href="https://drive.google.com/file/d/1IDl9AczP9ra6SFgftcUzIv4TvPUUYAJk/view?usp=sharing">Link</a>
+
+- <b>Code</b><br>
+  <a href="https://github.com/danigomez365/Let-the-tree-decide-Classifying-forests-with-a-forest">Link</a>
 
 <h2> 🤳 Connect with me:</h2>
 
