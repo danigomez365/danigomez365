@@ -4,7 +4,7 @@ Hi there 👋
   <a href="https://github.com/danigomez365">A McGill Business Analytics and Sustainability Graduate</a>
 </h1>
 
-<h2> 🔬 Research Project Work (Python & Machine Learning:</h2>
+<h2> 🔬 Research Project Work (Python & Machine Learning):</h2>
 
 - <b>Discrimination in Hiring and the Role of Artificial Intelligence</b><br> <a href="https://drive.google.com/file/d/1ko40ogCnsZk7FeE2Bp41sR51Vlb0JZiZ/view?usp=sharing">Link</a>
 
