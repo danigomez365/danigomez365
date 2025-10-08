@@ -4,7 +4,7 @@ Hi there 👋
   <a href="https://github.com/danigomez365">A McGill Business Analytics and Sustainability Graduate</a>
 </h1>
 
-<h2> 🔬 Research Project Work: Discrimination in Hiring and the Role of Artificial Intelligence (Python & Machine Learning):</h2>
+<h2> 🔬 Research Project Work: Discrimination in Hiring and the Role of AI (Python & Machine Learning):</h2>
 
 - <b>Poster</b><br><a href="https://drive.google.com/file/d/1t3ynLII1TcFi9VmpcQ87c1A8oW4Ph0j6/view?usp=drive_link">Link</a>
 - <b>Proposal</b><br> <a href="https://drive.google.com/file/d/1ko40ogCnsZk7FeE2Bp41sR51Vlb0JZiZ/view?usp=sharing">Link</a>
@@ -16,7 +16,7 @@ Hi there 👋
 - <b>Sustainability Report: The Cement Association of Canada </b><br>
   <a href="https://drive.google.com/file/d/1gt7cYYppHs4cTo4IeOgoKbVjtedJ3zGE/view?usp=drive_link">Link</a>
 
-- <b>Maple Leaf Foods: Biomass to Biochar</b><br>
+- <b>Slide Deck- Maple Leaf Foods: Biomass to Biochar</b><br>
   <a href="https://drive.google.com/file/d/1Q8OfWgO377v04crqwNohvH_eip2PDjsd/view?usp=sharing">Link</a>
 
 - <b>Analyzing Tesla's Theory of Change in Renewable Energy Transition</b><br>
@@ -35,6 +35,11 @@ Hi there 👋
 
 - <b>Code</b><br>
   <a href="https://github.com/danigomez365/Let-the-tree-decide-Classifying-forests-with-a-forest">Link</a>
+
+<h2> 📈 Other Data Projects (SQL):</h2>
+
+- <b>Analyzing NYT Games</b><br>
+   <a href="https://github.com/danigomez365/WORDLE-Project">Link</a>
 
 <h2> 🤳 Connect with me:</h2>
 
