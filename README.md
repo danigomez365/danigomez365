@@ -4,9 +4,7 @@ Hi there 👋
   <a href="https://github.com/danigomez365">A McGill Business Analytics and Sustainability Graduate</a>
 </h1>
 
-<h2> 🔬 Research Project Work:
-Discrimination in Hiring and the Role of AI (Python & Machine Learning):</h2>
-
+<h2> 🔬 Research Project: Discrimination in Hiring and the Role of AI (Python & ML) </h2>
 <b>Explored bias in hiring algorithms and applied Fair Learn and Random Forest models to improve demographic parity by 44%</b><br>
 
 - <b>Poster</b><br><a href="https://drive.google.com/file/d/1t3ynLII1TcFi9VmpcQ87c1A8oW4Ph0j6/view?usp=drive_link">Link</a>
