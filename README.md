@@ -4,7 +4,10 @@ Hi there 👋
   <a href="https://github.com/danigomez365">A McGill Business Analytics and Sustainability Graduate</a>
 </h1>
 
-<h2> 🔬 Research Project Work: Discrimination in Hiring and the Role of AI (Python & Machine Learning):</h2>
+<h2> 🔬 Research Project Work:
+Discrimination in Hiring and the Role of AI (Python & Machine Learning):</h2>
+
+<b>Explored bias in hiring algorithms and applied Fair Learn and Random Forest models to improve demographic parity by 44%</b><br>
 
 - <b>Poster</b><br><a href="https://drive.google.com/file/d/1t3ynLII1TcFi9VmpcQ87c1A8oW4Ph0j6/view?usp=drive_link">Link</a>
 - <b>Proposal</b><br> <a href="https://drive.google.com/file/d/1ko40ogCnsZk7FeE2Bp41sR51Vlb0JZiZ/view?usp=sharing">Link</a>
@@ -28,7 +31,9 @@ Hi there 👋
 - <b>Why an Additional Educational Program is Needed in Ticaru Valley - CLDs</b><br>
   <a href="https://drive.google.com/file/d/1hV4_lTvd-C-stopIpVUY3l6SQyYWnnLp/view?usp=drive_link">Link</a>
 
-<h2> 📊 Data & Sustainability: Classifying forests with a forest (R):</h2>
+<h2> 📊 Data & Sustainability: Classifying Forests with a Forest (R):</h2>
+<b>Developed clustering and Random Forest models to identify high-risk deforestation zones for environmental monitoring</b><br>
+
 
 - <b>Paper</b><br>
   <a href="https://drive.google.com/file/d/1IDl9AczP9ra6SFgftcUzIv4TvPUUYAJk/view?usp=sharing">Link</a>
@@ -38,7 +43,7 @@ Hi there 👋
 
 <h2> 📈 Other Data Projects (SQL):</h2>
 
-- <b>Analyzing NYT Games</b><br>
+- <b>Analyzing NYT Games Statistics</b><br>
    <a href="https://github.com/danigomez365/WORDLE-Project">Link</a>
 
 <h2> 🤳 Connect with me:</h2>
